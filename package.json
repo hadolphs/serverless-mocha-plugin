@@ -45,9 +45,9 @@
     "eslint-plugin-jsx-a11y": "^2.1.0",
     "eslint-plugin-react": "^6.1.1",
     "node-yaml": "^3.0.3",
-    "nyc": "^11.4.1",
+    "nyc": "^18.0.0",
     "serverless": "^1.33.2",
-    "serverless-webpack": "^1.0.0-rc.4",
+    "serverless-webpack": "^5.16.2",
     "webpack-node-externals": "^1.5.4"
   },
   "dependencies": {
@@ -55,10 +55,10 @@
     "bluebird": "^3.4.6",
     "chai": "^3.5.0",
     "delayed-stream": "^1.0.0",
-    "ejs": "^2.5.2",
+    "ejs": "^3.1.10",
     "fs-extra": "^1.0.0",
     "lambda-wrapper": "^0.3.0",
-    "mocha": "^4.0.0",
+    "mocha": "^12.0.3",
     "yaml-edit": "^0.1.3"
   }
 }
